@@ -1,4 +1,6 @@
-EDID fuzzer - a tool for fuzzing Enhanced Display Identification Data
+EDID fuzzer
+===========
+A tool for fuzzing Enhanced Display Identification Data
 
 Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
@@ -10,7 +12,8 @@ Released under AGPL see LICENSE for more information
 
 ## Documentation
 
-https://github.com/nccgroup/EDIDFuzzer/wiki/EDIDFuzzer-documentation
+See the whitepaper included in the repo:
+https://github.com/nccgroup/EDIDFuzzer/blob/master/Hacking_Displays_Made_Interesting_whitepaper.pdf
 
 ## Pre-requisites
 
